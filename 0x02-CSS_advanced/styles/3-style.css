@@ -1,3 +1,5 @@
+/*Custom properties in root elements */
+
 html {
     scroll-behavior: smooth;
 }
@@ -28,5 +30,5 @@ a {
 }
 
 .section-tagline {
-    color: var(--color-primary)
+    color: var(--color-primary);
 }
