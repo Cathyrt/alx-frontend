@@ -2,6 +2,10 @@
 
 This directory contains advanced CSS concepts and techniques to enhance your web development skills. It covers the following topics:
 
+## The final page of this project.
+
+![Final_Page](images/final_page.png)
+
 ## Table of Contents
 
 1. [Selectors, Properties, and Values](#selectors-properties-and-values)
